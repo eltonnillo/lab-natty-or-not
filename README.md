@@ -4,7 +4,7 @@
 Este e-book apresenta as principais modalidades de golpes envolvendo transações bancárias e as formas dos usuários de contas se protegerem. 
 
 ## 🤖 Tecnologias Utilizadas
-IA Generativa ChatGPT para roteirização;
+IA Generativa Microsoft Copilot para roteirização;
 
 IA Generativa Leonardo para criar a arte visual do e-book;
 
