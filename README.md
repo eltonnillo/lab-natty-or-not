@@ -28,7 +28,7 @@ Por fim, levei o arquivo com a voz para o Descript para inclusão de uma trilha 
 ## 🚀 Resultados
 O resultado final foi publicado no próprio Descript e pode ser acessado através do link 
 
-<iframe src="https://share.descript.com/embed/aMaTwM0iYgb" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+https://share.descript.com/embed/aMaTwM0iYgb
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
